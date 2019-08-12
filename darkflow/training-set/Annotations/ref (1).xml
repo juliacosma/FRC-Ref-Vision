@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+    <annontation>
+    <folder>Images</folder>
+    <filename>ref (1).jpg</filename>
+    <size>
+        <width>194</width>
+        <height>259</height>
+    </size>
+    <object>
+        <name>ref</name>
+        <bndbox>
+            <xmin>19</xmin>
+            <ymin>84</ymin>
+            <xmax>144</xmax>
+            <ymax>236</ymax>
+        </bndbox>
+    </object>
+    </annontation>
