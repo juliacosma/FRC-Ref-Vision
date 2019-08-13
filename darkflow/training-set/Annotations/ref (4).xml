@@ -1,13 +1,13 @@
 <annotation>
 	<folder>Images</folder>
-	<filename>ref (1).jpg</filename>
-	<path>C:\Users\Julia\Documents\FRC-Ref-Vision\darkflow\training-set\Images\ref (1).jpg</path>
+	<filename>ref (4).jpg</filename>
+	<path>C:\Users\Julia\Documents\FRC-Ref-Vision\darkflow\training-set\Images\ref (4).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>194</width>
-		<height>259</height>
+		<width>4032</width>
+		<height>2268</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>73</xmin>
-			<ymin>111</ymin>
-			<xmax>113</xmax>
-			<ymax>157</ymax>
+			<xmin>1026</xmin>
+			<ymin>1280</ymin>
+			<xmax>1505</xmax>
+			<ymax>1873</ymax>
 		</bndbox>
 	</object>
 </annotation>
