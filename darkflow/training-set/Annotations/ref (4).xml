@@ -23,4 +23,16 @@
 			<ymax>1873</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>ref</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>723</ymin>
+			<xmax>655</xmax>
+			<ymax>1066</ymax>
+		</bndbox>
+	</object>
 </annotation>
